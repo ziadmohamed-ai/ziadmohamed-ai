@@ -16,7 +16,7 @@ I build n8n workflows that connect language models to WhatsApp, CRMs and databas
 
 ### Featured project
 
-**[Real Estate WhatsApp Lead Automation](https://github.com/ziadmohamed1220-source/real-estate-whatsapp-lead-automation)** ([demo video](https://youtu.be/A774L_G5KpU))
+**[Real Estate WhatsApp Lead Automation](https://github.com/ziadmohamed-ai/real-estate-whatsapp-lead-automation)** ([demo video](https://youtu.be/A774L_G5KpU))
 An n8n system that turns every incoming WhatsApp message into a validated database record, with an AI agent handling the conversation. The AI never touches core logic: saving, duplicate checks and timestamps run on fixed workflow rules.
 `n8n` `WhatsApp Business Cloud API` `Supabase` `PostgreSQL` `AI Agent`
 
